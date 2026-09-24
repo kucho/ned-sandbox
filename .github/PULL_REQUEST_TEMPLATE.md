@@ -11,7 +11,7 @@
 <!-- none, or one line per area, route, or service in your own words: - Invoices (PDF download) -->
 
 **Feature flags**
-<!-- none, or one line per flag this pull request adds, removes, or changes: - bulk_export added, default off -->
+<!-- none, or one line per flag this pull request adds or removes: - bulk_export added -->
 
 **Rollback**
 <!-- The concrete step: disable a flag, or revert and redeploy. -->
