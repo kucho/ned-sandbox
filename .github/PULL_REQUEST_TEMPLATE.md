@@ -2,7 +2,9 @@
 <!-- Ned posts this to #dev-changelog when the pull request reaches production. Write for a product manager: say what people will notice, not what the diff does. -->
 **Change type:** <!-- feature | platform | bugfix | chore -->
 **Risk:** <!-- low | medium | high -->
-**Who notices:** <!-- nobody | staff | customers | api clients -->
+
+**Who notices**
+<!-- one or more, one per line: nobody | staff | customers | api clients -->
 
 **Summary**
 <!-- One or two sentences a product manager understands. The effect, not the diff. -->
